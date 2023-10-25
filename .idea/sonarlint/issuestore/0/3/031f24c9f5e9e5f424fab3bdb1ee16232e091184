@@ -1,0 +1,16 @@
+
+z
+java:S1192"]Define a constant instead of duplicating this literal "|                          |" 4 times.(»‰ö®8Û“”¶1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÚÅÒ¶ıÿÿÿÿ8Û“”¶1
+G	java:S106"+Replace this use of System.out by a logger.(•Ÿ8™Û“”¶1
+G	java:S106"+Replace this use of System.out by a logger.(»‰ö®8™Û“”¶1
+L	java:S106"+Replace this use of System.out by a logger.(âÛ§éşÿÿÿÿ8šÛ“”¶1
+G	java:S106"+Replace this use of System.out by a logger.(»‰ö®8šÛ“”¶1
+G	java:S106 "+Replace this use of System.out by a logger.(ŠÛ©§8šÛ“”¶1
+L	java:S106!"+Replace this use of System.out by a logger.(ıç¨şÿÿÿÿ8›Û“”¶1
+L	java:S106""+Replace this use of System.out by a logger.(Â«µÁúÿÿÿÿ8›Û“”¶1
+L	java:S106#"+Replace this use of System.out by a logger.(¾šËúúÿÿÿÿ8›Û“”¶1
+G	java:S106$"+Replace this use of System.out by a logger.(»‰ö®8›Û“”¶1
+L	java:S106%"+Replace this use of System.out by a logger.(«¬ò®ùÿÿÿÿ8œÛ“”¶1
+G	java:S106&"+Replace this use of System.out by a logger.(»‰ö®8œÛ“”¶1
+L	java:S106'"+Replace this use of System.out by a logger.(Ÿğü¬şÿÿÿÿ8œÛ“”¶1

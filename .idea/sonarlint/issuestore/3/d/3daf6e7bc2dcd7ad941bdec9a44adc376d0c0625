@@ -1,0 +1,7 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ŞıÑ8À¶¶¶1
+n
+java:S3008"LRename this field "F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ã¦úÿÿÿÿ8Ö¶¶¶1
+t
+java:S3008"RRename this field "Celsius" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Éö¦ÿÿÿÿÿ8×¶¶¶1
+L	java:S106	"+Replace this use of System.out by a logger.(×áŠ»ıÿÿÿÿ8†·¶¶1
