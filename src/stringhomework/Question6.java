@@ -5,9 +5,13 @@ Expected output: We love java
  */
 
 public class Question6 {
+     static String a = "I@love@java";
+   static  String b = a.replace("I@love@","We love ");
     public static void main(String[] args) {
-        String a = "I@love@java";
-        String b = a.replace("I@love@","We love ");
+        m1();
+
+    }
+    public static void m1(){
         System.out.println(b);
     }
 

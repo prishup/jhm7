@@ -5,8 +5,8 @@ Expected output: We love java
  */
 public class Question3 {
     public static void main(String[] args) {
-        String trim = "I love java";
+        String a = "I love java";
 
-        System.out.println(trim.replace("I" , "We"));
+        System.out.println(a.replace("I" , "We"));
     }
 }

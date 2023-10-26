@@ -5,10 +5,15 @@ surname on a separate line.
  */
 
 public class Question1 {
-    public static void main(String[] args) {
-        String name = "Kinjal Shah";
+    String name = "Kinjal Shah";
+    public void m1(){
         System.out.println("Full Name- "   + name);
         System.out.println("Surname-    "   + name.substring(7));
+
+    }
+    public static void main(String[] args) {
+       Question1 t = new Question1();
+       t.m1();
     }
 
 }
